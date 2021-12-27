@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Killbox
+  - Damaging
+  - Platform
+  - Button
+  - Powerup
+  - Portal
+  - Controller
+  - HealthBar
+  - Vault
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - 
+  - 
+  - Background Image
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 151307009
+    locked: 0
+  - name: Platform
+    uniqueID: 22603243
+    locked: 0
+  - name: Player
+    uniqueID: 3818392765
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
